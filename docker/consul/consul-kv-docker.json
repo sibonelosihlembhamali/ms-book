@@ -1,0 +1,74 @@
+[
+  {
+    "LockIndex": 0,
+    "Key": "config/",
+    "Flags": 0,
+    "Value": null,
+    "CreateIndex": 6939,
+    "ModifyIndex": 6939
+  },
+  {
+    "LockIndex": 0,
+    "Key": "config/defaults,docker/",
+    "Flags": 0,
+    "Value": null,
+    "CreateIndex": 9066,
+    "ModifyIndex": 9066
+  },
+  {
+    "LockIndex": 0,
+    "Key": "config/defaults,docker/application.yml",
+    "Flags": 0,
+    "Value": "c3ByaW5nOgogIHJhYmJpdG1xOgogICAgaG9zdDogcmFiYml0bXEKICBjbG91ZDoKICAgIGNvbnN1bDoKICAgICAgZGlzY292ZXJ5OgogICAgICAgIGluc3RhbmNlLWlkOiAke3NwcmluZy5hcHBsaWNhdGlvbi5uYW1lfS0ke3JhbmRvbS5pbnQoMTAwMCl9",
+    "CreateIndex": 9074,
+    "ModifyIndex": 9074
+  },
+  {
+    "LockIndex": 0,
+    "Key": "config/defaults,production/",
+    "Flags": 0,
+    "Value": null,
+    "CreateIndex": 7041,
+    "ModifyIndex": 7041
+  },
+  {
+    "LockIndex": 0,
+    "Key": "config/defaults,production/application.yml",
+    "Flags": 0,
+    "Value": "bG9nZ2luZzoKICBsZXZlbDoKICAgIG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5lbnY6IElORk8=",
+    "CreateIndex": 7043,
+    "ModifyIndex": 7043
+  },
+  {
+    "LockIndex": 0,
+    "Key": "config/defaults/",
+    "Flags": 0,
+    "Value": null,
+    "CreateIndex": 6942,
+    "ModifyIndex": 6942
+  },
+  {
+    "LockIndex": 0,
+    "Key": "config/defaults/application.yml",
+    "Flags": 0,
+    "Value": "bG9nZ2luZzoKICBsZXZlbDoKICAgIG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5lbnY6IERFQlVH",
+    "CreateIndex": 6960,
+    "ModifyIndex": 6975
+  },
+  {
+    "LockIndex": 0,
+    "Key": "config/multiplication,production/",
+    "Flags": 0,
+    "Value": null,
+    "CreateIndex": 7077,
+    "ModifyIndex": 7077
+  },
+  {
+    "LockIndex": 0,
+    "Key": "config/multiplication,production/application.yml",
+    "Flags": 0,
+    "Value": "c2VydmVyOgogIHBvcnQ6IDkwOTE=",
+    "CreateIndex": 7080,
+    "ModifyIndex": 7080
+  }
+]
